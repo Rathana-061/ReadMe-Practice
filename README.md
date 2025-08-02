@@ -62,8 +62,18 @@ npm install
 
 ## **Language Coding**
 - [Python](#Python)
+```python
+print("Welcome to PNC Sports Management System")
+```
+
 - [HTML](#HTML)
+```html
+<h2>Welcome to PNC SPORTS</h2>
+```
 - [CSS](#CSS)
+```css
+background-color: blue;
+```
 - [JavaScript](#JavaScript)
 - [PHP](#PHP)
 - [OOP](#OOP)
