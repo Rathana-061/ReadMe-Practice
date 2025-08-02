@@ -10,6 +10,7 @@ PNC Sport Managment System, we focus to manage task metail of sport, such as foo
 3. **Solidarity :** Helping and supporting others. Working as a team. Being empathetic and sharing knowledge or time.
 4. **Trust :** Believing in yourself and others. 
 Being honest and reliable. Building strong relationships based on honesty and openness.
+
 [![app](https://img.shields.io/badge/Respect-core_value-green)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 [![app](https://img.shields.io/badge/Responsibility-core_value-orange)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 [![app](https://img.shields.io/badge/Solidarity-core_value-green)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
