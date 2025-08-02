@@ -16,7 +16,7 @@ Being honest and reliable. Building strong relationships based on honesty and op
 [![app](https://img.shields.io/badge/Solidarity-core_value-green)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 [![app](https://img.shields.io/badge/Trust-core_value-orange)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 
-## **Installation**
+## 🚀 **Installation**
 Clone the project and install dependencies:
 
 ```bask
@@ -24,6 +24,9 @@ git clone https://github.com/your-username/pnc-sports-management-system.git
 ```
 ```bask
 cd pnc-sports-management-system
+```
+```bask
+npm install
 ```
 
 
