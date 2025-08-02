@@ -4,7 +4,7 @@
 
 PNC Sport Managment System, we focus to manage task metail of sport, such as football, volleyball, basketball, boxing, tannis, and batminton.
 
-## 🔑 **PNC Value**
+## 🔑 **PNC Core Value**
 1. **Respect :** Treating others with dignity. Listening and considering different opinions. Valuing everyone's differences and contributions.
 2. **Responsibility :** Being accountable for your actions. Doing your tasks seriously and on time. Taking ownership of your personal and academic growth.
 3. **Solidarity :** Helping and supporting others. Working as a team. Being empathetic and sharing knowledge or time.
@@ -15,6 +15,17 @@ Being honest and reliable. Building strong relationships based on honesty and op
 [![app](https://img.shields.io/badge/Responsibility-core_value-orange)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 [![app](https://img.shields.io/badge/Solidarity-core_value-green)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 [![app](https://img.shields.io/badge/Trust-core_value-orange)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
+
+## **Installation**
+Clone the project and install dependencies:
+
+git clone https://github.com/your-username/pnc-sports-management-system.git
+
+```bask
+cd pnc-sports-management-system
+```
+
+
 
 ## **Type of Sports**
 - [Football](#Football) 
