@@ -21,7 +21,8 @@ Clone the project and install dependencies:
 
 ```bask
 git clone https://github.com/your-username/pnc-sports-management-system.git
-
+```
+```bask
 cd pnc-sports-management-system
 ```
 
