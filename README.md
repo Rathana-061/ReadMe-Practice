@@ -77,3 +77,17 @@ background-color: blue;
 - [JavaScript](#JavaScript)
 - [PHP](#PHP)
 - [OOP](#OOP)
+
+## **🔧 Usage**
+To run the server in development mode:
+```bask
+npm run dev
+```
+To start the server normally:
+```bask
+npm start
+```
+Access the API at
+```bask
+http://localhost:3000/api
+```
