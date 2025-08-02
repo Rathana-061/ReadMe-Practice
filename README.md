@@ -91,3 +91,12 @@ Access the API at
 ```bask
 http://localhost:3000/api
 ```
+
+## **🧪 Scripts**
+```bask
+npm start       # Start the server
+npm run dev     # Start with nodemon
+npm test        # Run test cases
+```
+
+
