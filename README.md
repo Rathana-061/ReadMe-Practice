@@ -16,6 +16,14 @@ Being honest and reliable. Building strong relationships based on honesty and op
 [![app](https://img.shields.io/badge/Solidarity-core_value-green)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 [![app](https://img.shields.io/badge/Trust-core_value-orange)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
 
+## **Type of Sports**
+- [Football](#Football) 
+- [Volleyball](#Volleyball)
+- [Basketball](#Basketball)
+- [Boxing](#Boxing)
+- [Tannis](#Tannis)
+- [Batminton](#Batminton)
+
 ## 🚀 **Installation**
 Clone the project and install dependencies:
 
@@ -28,17 +36,6 @@ cd pnc-sports-management-system
 ```bask
 npm install
 ```
-
-
-
-## **Type of Sports**
-- [Football](#Football) 
-- [Volleyball](#Volleyball)
-- [Basketball](#Basketball)
-- [Boxing](#Boxing)
-- [Tannis](#Tannis)
-- [Batminton](#Batminton)
-
 
 ## ⚽ **Football Team**
 ![football](football.png)
